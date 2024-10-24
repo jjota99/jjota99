@@ -1,5 +1,9 @@
 # 🧑‍💻 About Me:
-I'm a Brazilian fullstack software developer, currently working at a Brazilian healthcare company with focus in javascript and java!
+I am a full stack software engineer from Brazil, currently working for two Brazilian companies.
+
+The first one is a full-time position, where I work as a frontend engineer on a fleet management system, focusing on ReactJS, TypeScript, and AWS Services.
+
+The second one is a part-time remote job, where I work on a healthcare management system as a full stack engineer, with a focus on React, NodeJS, and Java (Spring).
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jotapandolfo_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-guilherme-pandolfo-a7a3b9219/) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5548988318668&text=Hello!)](https://api.whatsapp.com/send?phone=5548988318668&text=Hello!)
